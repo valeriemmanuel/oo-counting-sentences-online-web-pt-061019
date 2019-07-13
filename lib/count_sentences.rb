@@ -5,8 +5,7 @@ class String
   def sentence? (sentence)
    self.end_with?(".")
    puts TRUE
- else puts FALSE
-    
+   else puts FALSE
   end
 
   def question?
